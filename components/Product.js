@@ -7,9 +7,7 @@ import { Dimensions } from 'react-native';
 
 
 export default function Product({product}){
-
-
-    const {title, id,user, profilepic, mainimg} = product
+    const {title, id, user, profilepic, mainimg} = product
     const win = Dimensions.get('window');
     const ratio = win.width / 549;
 
