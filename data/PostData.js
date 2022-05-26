@@ -24,11 +24,32 @@ const testData = [
 
 const finalsData = [
     {
-        id: '1',
+        id: '100',
         title: 'Ugh finals are so annoying...good vibes in my room though :)',
-        user: "user1",
+        user: "Samuel.A",
+        profilepic: "https://www.ccdaily.com/wp-content/uploads/2019/01/studentA.jpg",
+        mainimg: "https://hackaday.com/wp-content/uploads/2011/11/led-sconces-spice-up-the-dorm-parties-e1322501678656.jpg"
+    },
+    {
+        id: '101',
+        title: 'gonna get through finals, one way or another! ',
+        user: "StannyT",
         profilepic: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
-        mainimg: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+        mainimg: "https://media.tenor.com/images/3cf1ee0b895eef7e3b3990e0f0382922/tenor.png"
+    },
+    {
+        id: '102',
+        title: 'Thinking about when amine asked us to scream if we were done with finals in week 8',
+        user: "Malika347",
+        profilepic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyGjgzlQV4Sz32kLyE4w_A-EvC3LgTUNALVEx1ywdu1MCIN43FdHFEa3psabUeThbod_M&usqp=CAU",
+        mainimg: "https://i.kym-cdn.com/entries/icons/facebook/000/016/729/large.jpg"
+    },
+    {
+        id: '103',
+        title: 'I hate finals sooooo much',
+        user: "Jermanie Brunson 240",
+        profilepic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuSSJpUVdMYHVT2Oxe0jY_bPmRe1KhoaJdQ&usqp=CAU",
+        mainimg: "https://keepmeme.com/meme/20210625/black-baby-kid-girl-crying-looking-at-mobile-camera-meme.webp"
     },
 ];
 
@@ -36,9 +57,22 @@ const froshData = [
     {
         id: '2',
         title: 'Woohooo!! Class of 2026!!!',
-        user: "user1",
-        profilepic: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
-        mainimg: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+        user: "Ali Woo",
+        profilepic: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mohamed_Salah_2018.jpg/330px-Mohamed_Salah_2018.jpg",
+        mainimg: "https://pbs.twimg.com/media/Bo2NOyFIEAATIeM.jpg:large"
+    }, {
+        id: '23',
+        title: 'I stepped out of math 51 for 2 minutes and missed 2 chapters smh ',
+        user: "Mike K",
+        profilepic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVhPQLuaU3ui9__6LMimN7fcnosnaFMoqfg&usqp=CAU",
+        mainimg: "https://cdn.memes.com/up/67408201598240835/i/1615574158773.jpg"
+    },
+    {
+        id: '234',
+        title: 'Lost my keys on the quad. Will be eternally grateful to anyone who finds them!',
+        user: "Kelly Olson",
+        profilepic: "https://facts.net/wp-content/uploads/2020/08/AdobeStock_209028852.jpeg",
+        mainimg: "https://content.spiceworksstatic.com/service.community/p/post_images/0000196436/57c46973/attached_image/IMAG0069.jpg"
     },
 ];
 
@@ -46,9 +80,22 @@ const dartyData = [
     {
         id: '3',
         title: 'Darty szn!! Come thru to Terman later for good vibes',
-        user: "user1",
-        profilepic: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
-        mainimg: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+        user: "Quentin_P",
+        profilepic: "https://dailynexus.s3.us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2017/05/IMG_3483.jpg",
+        mainimg: "https://media.blogto.com/articles/20180525-collectifnude.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
+    }, {
+        id: '31',
+        title: 'Where the darties at this weekend? ',
+        user: "AKBee",
+        profilepic: "https://m.media-amazon.com/images/M/MV5BMTkzNjIwNzQ1NV5BMl5BanBnXkFtZTgwMDUwODk2NDM@._V1_UY317_CR125,0,214,317_AL_.jpg",
+        mainimg: "https://thumbs.dreamstime.com/b/vector-thinking-guy-meme-face-any-design-eps-80093538.jpg"
+    },
+    {
+        id: '310',
+        title: 'I live for darty szn !! ',
+        user: "Jenny_O",
+        profilepic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumrOWJRvDO6KX0OmFFoEG_ZB86GhHZFWL5g&usqp=CAU",
+        mainimg: "https://spoonuniversity.com/wp-content/uploads/sites/98/2016/06/FullSizeRender-34.jpg"
     },
 ];
 
@@ -56,10 +103,39 @@ const springData = [
     {
         id: '4',
         title: 'I love spring quarter...such good vibes',
-        user: "user1",
-        profilepic: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg",
-        mainimg: "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+        user: "Uma0725",
+        profilepic: "https://img5.goodfon.com/wallpaper/nbig/6/ea/girl-smile-cute-asian-woman-chinese-eyes-outdoor.jpg",
+        mainimg: "https://wattention.com/wp-content/uploads/2020/07/springs-007.jpg"
     },
+    {
+        id: '41',
+        title: 'Hoping CME 102 doesnt destroy my spring ',
+        user: "Calebtheog",
+        profilepic: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPFWCz9tn0utCzE-i7J2tll6aTwu03Xt_0dQ&usqp=CAU",
+        mainimg: "https://i.kym-cdn.com/entries/icons/facebook/000/021/464/14608107_1180665285312703_1558693314_n.jpg"
+    },
+    {
+        id: '5',
+        title: 'Woke up and listened to my favorite album today! Loving the good vibes today! #spring',
+        user: "AllyP",
+        profilepic: "https://static5.depositphotos.com/1037987/476/i/600/depositphotos_4760660-stock-photo-middle-eastern-woman-her-son.jpg",
+        mainimg: "https://res.cloudinary.com/jerrick/image/upload/v1627152311/60fc5fb7434f31001d03a37e.jpg"
+    },
+    {
+        id: '52',
+        title: 'Thinking this last spring quarter is gonna be a good one ! #seniorszn!! ',
+        user: "AllyP",
+        profilepic: "https://static5.depositphotos.com/1037987/476/i/600/depositphotos_4760660-stock-photo-middle-eastern-woman-her-son.jpg",
+        mainimg: "https://ee.stanford.edu/sites/default/files/inline-images/A-commncement-headerA-1200.jpg"
+    },
+    {
+        id: '6',
+        title: 'Waiting for the party of the quarter today! I know itll be good vibes!',
+        user: "DestinyHW",
+        profilepic: "https://hiplatina.com/wp-content/uploads/sites/2/2017/10/curly-1.jpg",
+        mainimg: "https://vista.today/wp-content/uploads/2021/04/College-student-smiling-with-her-laptop-602x341.jpg"
+    }
+    
 ];
 
 const DATA = {
