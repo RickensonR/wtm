@@ -25,7 +25,7 @@ const testData = [
 const finalsData = [
     {
         id: '100',
-        title: 'Ugh finals are so annoying...good vibes in my room though :)',
+        title: 'ugh finals are so annoying...good vibes in my room though :)',
         user: "Samuel.A",
         profilepic: "https://www.ccdaily.com/wp-content/uploads/2019/01/studentA.jpg",
         mainimg: "https://hackaday.com/wp-content/uploads/2011/11/led-sconces-spice-up-the-dorm-parties-e1322501678656.jpg"
@@ -79,7 +79,7 @@ const froshData = [
 const dartyData = [
     {
         id: '3',
-        title: 'Darty szn!! Come thru to Terman later for good vibes',
+        title: 'darty szn!! Come thru to Terman later for good vibes',
         user: "Quentin_P",
         profilepic: "https://dailynexus.s3.us-west-1.amazonaws.com/dailynexus/wp-content/uploads/2017/05/IMG_3483.jpg",
         mainimg: "https://media.blogto.com/articles/20180525-collectifnude.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70"
@@ -102,7 +102,7 @@ const dartyData = [
 const springData = [
     {
         id: '4',
-        title: 'I love spring quarter...such good vibes',
+        title: 'i love spring quarter...such good vibes',
         user: "Uma0725",
         profilepic: "https://img5.goodfon.com/wallpaper/nbig/6/ea/girl-smile-cute-asian-woman-chinese-eyes-outdoor.jpg",
         mainimg: "https://wattention.com/wp-content/uploads/2020/07/springs-007.jpg"
@@ -116,7 +116,7 @@ const springData = [
     },
     {
         id: '5',
-        title: 'Woke up and listened to my favorite album today! Loving the good vibes today! #spring',
+        title: 'woke up and listened to my favorite album today! Loving the good vibes today! #spring',
         user: "AllyP",
         profilepic: "https://static5.depositphotos.com/1037987/476/i/600/depositphotos_4760660-stock-photo-middle-eastern-woman-her-son.jpg",
         mainimg: "https://res.cloudinary.com/jerrick/image/upload/v1627152311/60fc5fb7434f31001d03a37e.jpg"
@@ -130,7 +130,7 @@ const springData = [
     },
     {
         id: '6',
-        title: 'Waiting for the party of the quarter today! I know itll be good vibes!',
+        title: 'waiting for the party of the quarter today! I know itll be good vibes!',
         user: "DestinyHW",
         profilepic: "https://hiplatina.com/wp-content/uploads/sites/2/2017/10/curly-1.jpg",
         mainimg: "https://vista.today/wp-content/uploads/2021/04/College-student-smiling-with-her-laptop-602x341.jpg"
